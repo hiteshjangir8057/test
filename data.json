@@ -1,17 +1,5 @@
 {
   "students": [],
-  "feeRecords": [
-    {
-      "receiptNo": "RCP-959826",
-      "date": "5/8/2026",
-      "studentId": "STU-1001",
-      "month": "January",
-      "tuitionFee": 500,
-      "transportFee": 500,
-      "total": 1000,
-      "mode": "Cash",
-      "remarks": "iiiiioooooooo"
-    }
-  ],
+  "feeRecords": [],
   "feeStructure": []
 }
